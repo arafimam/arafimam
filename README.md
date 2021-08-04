@@ -1,4 +1,4 @@
-![Screenshot (997)](https://user-images.githubusercontent.com/86128944/128187470-b64de634-af3b-47bb-b8bd-d847ee6edc29.png) 👋
+  👋 ![Screenshot (997)](https://user-images.githubusercontent.com/86128944/128187470-b64de634-af3b-47bb-b8bd-d847ee6edc29.png)
 
 
 - I am a second year Computer Engineering Student at The University of British Columbia.
