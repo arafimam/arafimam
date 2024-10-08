@@ -38,6 +38,25 @@
 
 ---
 
+### **My GitHub Statistics**
+![Syed Araf Imam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=araimam&show_icons=true&theme=radical)
+
+### **Streak Stats**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=araimam&theme=radical)](https://git.io/streak-stats)
+
+### **Top Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araimam&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=araimam&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
+---
+
 ## 💼 Work Experience
 **Head of Technology** @ **ALO Mental Health**  
 *July 2024 – Present*  
